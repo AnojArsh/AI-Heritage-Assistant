@@ -1,0 +1,13 @@
+tensorflow>=2.15
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+streamlit
+langchain-core
+langchain-classic
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
