@@ -1,7 +1,7 @@
 # AI-Heritage-Assistant
 Built as a prototype for the **National Heritage Preservation Trust (NHPT)** visitor knowledge support use case.
 
-# 🏛️ Heritage Architecture Assistant
+# 🏛️ StoneSpeak: A Local-First Vision-RAG Assistant for Heritage Perpetuation.
 
 An AI system that combines **Computer Vision** and a **LangChain Retrieval-Augmented Generation (RAG)** pipeline to classify architectural styles from photographs and answer follow-up questions about them, grounded in a curated heritage knowledge base.
 
@@ -88,6 +88,7 @@ Built as a prototype for the **National Heritage Preservation Trust (NHPT)** vis
 ## 📥 Downloads
 
 The following files are too large for this repo and are hosted on Google Drive instead. Download them and place each in the project root (or the folder noted) before running the notebooks/app.
+Dataset source link : https://github.com/dumitrux/architectural-style-recognition
 
 | File | Description | Link |
 |---|---|---|
